@@ -1,6 +1,4 @@
-¡Excelente\! Este texto describe un proyecto técnico sólido. Lo transformaremos en un `README.md` espectacular y funcional para GitHub, destacando los logros técnicos y la escalabilidad del diseño.
 
------
 
 ## 🌟 Data Engineering Challenge: Ingesta y Procesamiento Transaccional
 
